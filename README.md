@@ -105,4 +105,20 @@ Unitree_Sim_web/
 
 ---
 
+## Contributors
+
+Thanks to everyone who has contributed to this project!
+
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+| Avatar | Name | Role |
+| :---: | :--- | :--- |
+| <img src="https://github.com/bendsc-cmd.png" width="60px" style="border-radius:50%"/> | [bendsc-cmd](https://github.com/bendsc-cmd) | Maintainer |
+| <img src="https://github.com/cuongtdm.png" width="60px" style="border-radius:50%"/> | [cuongtdm](https://github.com/cuongtdm) | Contributor |
+| <img src="https://github.com/thanhnguyencanh.png" width="60px" style="border-radius:50%"/> | [thanhnguyencanh](https://github.com/thanhnguyencanh) | Contributor |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+> Want to contribute? Check out the [Quick Start](#quick-start--local-development) guide and open a Pull Request!
+
+---
+
 Developed with ❤️ by **STrike Robot**. Feel free to explore and share your feedback! 🚀
